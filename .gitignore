@@ -45,3 +45,14 @@ openblack.log
 screenshot.png
 compile_commands.json
 .cache
+
+# --- B&W Playground fork additions ---
+# Original game assets must NEVER be committed (spec ground rule 3).
+# The B&W data directory lives outside the repo; these are defensive.
+/Data/
+/data/
+/bw-data/
+/BWGameData/
+/game-data/
+/Scripts/
+*.sad

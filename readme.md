@@ -1,3 +1,5 @@
+ > **B&W Playground** — a personal fork of [openblack](https://github.com/openblack/openblack) for experimenting with a complete, extended Black & White (2001). See [`BW_PLAYGROUND_SPEC.md`](BW_PLAYGROUND_SPEC.md) for the project plan and [`DEVLOG.md`](DEVLOG.md) for progress. Upstream readme follows.
+
 # openblack
 
 [![VCPKG CI](https://github.com/openblack/openblack/actions/workflows/ci-vcpkg.yml/badge.svg?branch=master&event=push)](https://github.com/openblack/openblack/actions/workflows/ci-vcpkg.yml?query=branch%3Amaster+event%3Apush)
